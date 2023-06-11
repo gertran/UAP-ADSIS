@@ -59,14 +59,12 @@ sebelumnya telah dibuat
 Soal 4
 ------------------------------------------------
 
-1) Melakukan ping pada alamat IP 192.168.56.20
-<img src="Screenshots/Soal 4/ping.png">
+1) Melakukan ping pada alamat IP 192.168.180.128
+<img src="Screenshots/Soal 4/13.jpg">
 
 2) Membuat rule baru untuk melakukan reject kepada request paket bertipe ICMP
-<img src="Screenshots/Soal 4/rule.png">
+<img src="Screenshots/Soal 4/14.jpg">
 
-3) Setelah rule baru ditambahkan, ping akan mengalami packet loss karena telah di-reject
-<img src="Screenshots/Soal 4/pinglast.png">
 
 Soal 5
 ------------------------------------------------
