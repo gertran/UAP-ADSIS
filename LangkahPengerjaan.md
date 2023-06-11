@@ -1,12 +1,12 @@
 **Soal :**
-<img src="Screenshots/soaluap.jpg">
+<img src="soaluap.jpg">
 
 Soal 1
 ------------------------------------------------
 
 1) Membuat direktori baru dengan nama UAP-Adsis dengan menggunakan perintah
 “mkdir”
-<img src="Screenshots/Soal 1/createFolder.png">
+<img src="Screenshots/Soal 1/1.png">
 
 2) Setelah itu, masuk ke dalam folder tersebut, dan buat file dengan nama catatanya-
 ahmad.txt menggunakan perintah “touch”
