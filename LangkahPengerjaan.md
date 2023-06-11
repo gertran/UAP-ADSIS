@@ -70,7 +70,6 @@ Soal 5
 ------------------------------------------------
 
 1) Menjalankan perintah sudo crontab -e dan menuliskan perintah berikut untuk melakukan otomatisasi ping ke filkom.ub.ac.id
-<img src="Screenshots/Soal 5/crontab.png">
 
 2) Setelah itu, dapat dilihat bahwa perintah ping telah terotomatisasi setiap 3 menit
-<img src="Screenshots/Soal 5/aux.png">
+<img src="Screenshots/Soal 5/15.jpg">
