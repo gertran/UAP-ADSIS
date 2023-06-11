@@ -10,20 +10,20 @@ Soal 1
 
 2) Setelah itu, masuk ke dalam folder tersebut, dan buat file dengan nama catatanya-
 ahmad.txt menggunakan perintah “touch”
-<img src="Screenshots/Soal 1/createText.png">
+<img src="Screenshots/Soal 1/2.jpg">
 
 3) Mengisikan file yang telah dibuat dengan nama dan nim
-<img src="Screenshots/Soal 1/isiFile.png">
+<img src="Screenshots/Soal 1/3.jpg">
 
 4) Lalu, memberikan permission view-only pada file yang telah dibuat menggunakan
 perintah “chmod” menggunakan kode 644. Kode tersebut memiliki arti bahwa pemilik
 akan memiliki akses untuk baca dan tulis, namun untuk user biasa hanya dapat
 membacanya saja.
-<img src="Screenshots/Soal 1/permission.png">
+<img src="Screenshots/Soal 1/4.jpg">
 
 5) Menggunakan perintah “ls -l” untuk menampilkan hasil file yang telah diberikan
 permission only.
-<img src="Screenshots/Soal 1/viewlist.png">
+<img src="Screenshots/Soal 1/5.jpg">
 Dapat dilihat bahwa file tersebut memiliki kode rw-r—r dimana kode tersebut
 memiliki arti file hanya dapat baca dan diubah oleh pemiliki, dan user biasa hanya
 dapat membaca saja
