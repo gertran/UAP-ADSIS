@@ -34,17 +34,11 @@ Soal 2
 1) Periksa antarmuka jaringan yang tersedia.
 <img src="Screenshots/Soal 2/6.jpg">
 
-2) konfigurasi alamat IP sementara
+2) konfigurasi alamat IP dan default gateway sementara
 <img src="Screenshots/Soal 2/7.jpg">
 
-3) Mengatur default gateway 
+3) memeriksa apakah konfigurasi alamat IP sementara dan default gateway berhasil dilakukan 
 <img src="Screenshots/Soal 2/8.jpg">
-
-4) Setelah itu, melakukan pengecekan menggunakan perintah “route -n” untuk mengetahui
-apakah sudah berhasil untuk mengkonfigurasi gateway atau belum.
-<img src="Screenshots/Soal 2/routeN.png">
-Dapat dilihat bahwa konfigurasi gateway sudah berhasil dilakukan pada interface
-wlp3s0. Disini saya menggunakan IP yang sama, yaitu 192.168.56.20
 
 Soal 3
 ------------------------------------------------
