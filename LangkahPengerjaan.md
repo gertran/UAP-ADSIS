@@ -31,16 +31,14 @@ dapat membaca saja
 Soal 2
 ------------------------------------------------
 
-1) Melakukan konfigurasi IP address menggunakan perintah “ifconfig" dengan IP
-192.168.56.20.
-<img src="Screenshots/Soal 2/config.png">
+1) Periksa antarmuka jaringan yang tersedia.
+<img src="Screenshots/Soal 2/6.jpg">
 
-2) Melakukan pengecekan apakah IP sudah berubah atau belum menggunakan perintah
-“ifconfig”
-<img src="Screenshots/Soal 2/check.png">
+2) konfigurasi alamat IP sementara
+<img src="Screenshots/Soal 2/7.jpg">
 
-3) Mengatur default gateway menggunakan perintah “route add”
-<img src="Screenshots/Soal 2/routeAdd.png">
+3) Mengatur default gateway 
+<img src="Screenshots/Soal 2/8.jpg">
 
 4) Setelah itu, melakukan pengecekan menggunakan perintah “route -n” untuk mengetahui
 apakah sudah berhasil untuk mengkonfigurasi gateway atau belum.
