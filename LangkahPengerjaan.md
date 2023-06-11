@@ -43,40 +43,18 @@ Soal 2
 Soal 3
 ------------------------------------------------
 
-1) Masuk ke dalam direktori /etc/apt/sources.list. Kemudian, masukkan perintah
-deb http://download.webmin.com/download/repository sarge contrib
-<img src="Screenshots/Soal 3/sourcelist.png">
 
-2) Selanjutnya, menambahkan key PGP Webmin agar sistem mempercayai repository baru
-menggunakan 2 perintah, yaitu wget http://www.webmin.com/jcameron-key.asc dan
-sudo apt-key add jcameron-key.asc
-<img src="Screenshots/Soal 3/pgp.png">
-<img src="Screenshots/Soal 3/aptkey.png">
-
-3) Selanjutnya, menginstall webmin menggunakan perintah apt-get install webmin.
-Namun, sebelum menjalankan perintah instalasi webmin, lakukan perintah apt-get
-update untuk memperbarui daftar paket.
-<img src="Screenshots/Soal 3/install.png">
-
-4) Selanjutnya, membuka halaman webmin menggunakan alamat 192.168.56.20:10000
-<img src="Screenshots/Soal 3/login.png">
-
-
-5) Lalu, membuat user baru dengan cara masuk ke halaman user and groups. Pada halaman
+1) Membuat user baru dengan cara masuk ke halaman user and groups. Pada halaman
 ini, kita akan membuat user baru dengan cara menekan tombol “create new user” untuk
-membuat user baru, dan memasukkan nama user dengan nama “ahmads”
-<img src="Screenshots/Soal 3/createuser.png">
-<img src="Screenshots/Soal 3/listView.png">
+membuat user baru, dan memasukkan nama user
+<img src="Screenshots/Soal 3/10.jpg">
+<img src="Screenshots/Soal 3/9.jpg">
 Dapat terlihat bahwa user “ahmads” sudah berhasil dibuat.
 
-6) Selanjutnya, membuat grup baru dengan nama “Adsis_E” dengan cara menekan tombol
+2) Selanjutnya, membuat grup baru dengan nama “gertran” dengan cara menekan tombol
 “create a new group”. Pada saat membuat grup, lakukan penambahan user yang
-sebelumnya telah dibuat, yaitu user “ahmads”
-<img src="Screenshots/Soal 3/groupadd.png">
-<img src="Screenshots/Soal 3/Grouplist.png">
-Dari gambar tersebut, dapat terlihat bahwa user “ahmads” sudah berada pada group
-“Adsis_E”
-
+sebelumnya telah dibuat
+<img src="Screenshots/Soal 3/12.jpg">
 
 Soal 4
 ------------------------------------------------
